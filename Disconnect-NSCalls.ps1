@@ -1,5 +1,5 @@
 # Description
-# The below script will any calls on a given domain. This module allows you to connect to your Netsapiens service provider. Initial pre-release. use at your own risk.
+# The below script will kill any calls on a given domain. This module allows you to connect to your Netsapiens service provider. Initial pre-release. use at your own risk.
 
 # License
 # (c) 2021 Raymond Orsini - ray@oit.co All rights reserved. Free for personal or business use. Distribution or modification must include attribution.
